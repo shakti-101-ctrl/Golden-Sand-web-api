@@ -1,0 +1,10 @@
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\GoldenSand_WebAPI.dll
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\GoldenSand_WebAPI.runtimeconfig.json
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\GoldenSand_WebAPI.pdb
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\AutoMapper.dll
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Shakti\Desktop\Golden_Sands\GoldenSand_WebAPI\obj\Release\netcoreapp2.1\PubTmp\Out\GoldenSand_WebAPI.deps.json
